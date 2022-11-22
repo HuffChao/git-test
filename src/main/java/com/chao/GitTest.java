@@ -12,7 +12,7 @@ public class GitTest {
         System.out.println("push");
         System.out.println("hello gitee");
         System.out.println("gitee pull");
-        System.out.println("hello gitlab")
+        System.out.println("hello gitlab");
     }
 
 }
